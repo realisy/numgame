@@ -36,3 +36,5 @@ while @game_playing
     verify_answer
     @game_playing = false if (@player1_lives == 0 || @player2_lives == 0)
 end
+
+asdftestOOP
